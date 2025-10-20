@@ -35,7 +35,7 @@ The goal is to empower management with data-driven insights to optimize operatio
 
 ## 📊 Dashboard Overview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard.png)
 
 ### ✨ Features:
 - 📅 **Monthly sales and profit trend visualization**
@@ -78,7 +78,7 @@ The goal is to empower management with data-driven insights to optimize operatio
 | File | Description |
 |------|--------------|
 | `Ecommerce_Sales.pbix` | Complete Power BI report file |
-| `dataset/sales_data.xlsx` | Raw dataset used for analysis |
+| `dataset/Details.csv` and `dataset/Orders.csv` | Raw datasets used for sales and customer analysis |
 | `images/dashboard_preview.png` | Dashboard screenshot |
 | `index.html` | Embedded dashboard preview page |
 | `README.md` | Full project documentation |
@@ -105,7 +105,7 @@ The goal is to empower management with data-driven insights to optimize operatio
 
 **Sakshi Birajdar**  
 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
-📧 sakshibirajdar@example.com  
+📧 sakshibirajdar34@gmail.com  
 
 ---
 
