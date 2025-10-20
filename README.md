@@ -35,7 +35,7 @@ The goal is to empower management with data-driven insights to optimize operatio
 
 ## 📊 Dashboard Overview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/Dashboard.png)
 
 ### ✨ Features:
 - 📅 **Monthly sales and profit trend visualization**
